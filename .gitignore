@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# temporary files when coding on windows instead of linux
+rustup-init.exe
