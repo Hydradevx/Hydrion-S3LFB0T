@@ -52,7 +52,7 @@
     "discord.js-selfbot-v13": "^3.5.1",
     "ejs": "^3.1.10",
     "express": "^5.1.0",
-    "framer-motion": "^12.14.0",
+    "framer-motion": "^12.23.3",
     "fs": "^0.0.1-security",
     "inquirer": "^12.4.1",
     "lucide-react": "^0.523.0",
